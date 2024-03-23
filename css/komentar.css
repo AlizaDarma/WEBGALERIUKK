@@ -1,0 +1,14 @@
+.text-komentar{
+    color: #107DE1;
+    margin-left: 50px;
+}
+
+.komentar-user{
+   font-weight: 500;
+   margin-top: 30px;
+   margin-left: 50px; 
+}
+
+.isi-komentar{
+    margin-left: 50px;
+}

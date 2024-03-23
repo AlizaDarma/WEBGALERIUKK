@@ -1,0 +1,31 @@
+.card{
+    margin-top: 100px;
+    width: 90%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: rgba(107, 107, 107, 0.12) 0px 20px 20px 2px;
+}
+
+.card-header{
+    background-color: #107DE1;
+    color: white;
+}
+
+.text-album{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.unggah-button{
+    margin-top: 30px;
+    margin-left: 130px;
+}
+
+.modal-tittle{
+    color: #107DE1;
+}
+
+
+
+

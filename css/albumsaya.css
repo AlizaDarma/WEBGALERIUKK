@@ -1,0 +1,20 @@
+.judul{
+    color: #107DE1;
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+
+.deskripsi{
+    color: rgb(59, 59, 59);
+    margin-left: 50px;
+}
+
+.album1-post{
+    width: 80%;
+    height: auto;
+    margin-top: 30px;
+    margin-left: 50px;
+    border-radius: 30px;
+    box-shadow: rgba(107, 107, 107, 0.12) 0px 20px 20px 2px;
+}

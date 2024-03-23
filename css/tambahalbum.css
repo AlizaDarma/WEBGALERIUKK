@@ -1,0 +1,70 @@
+.judul{
+    color: #107DE1;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.album-text{
+    margin-left: 60px;
+    margin-top: 20px;
+    color: #107DE1;
+}
+
+.textfield{
+    background-color: white;
+    border: solid;
+    border-color: #BDBCBC;
+    border-width: 2px;
+    border-radius: 12px;
+    width: 400px;
+    height: 40px;
+    margin-left: 55px;
+    display: block;
+    box-shadow: rgba(107, 107, 107, 0.12) 0px 10px 20px 2px;
+}
+
+.textfield1{
+    background-color: white;
+    border: solid;
+    border-color: #BDBCBC;
+    border-width: 2px;
+    border-radius: 12px;
+    width: 400px;
+    height: 100px;
+    margin-left: 55px;
+    display: block;
+    box-shadow: rgba(107, 107, 107, 0.12) 0px 10px 20px 2px;
+}
+
+.textarea{
+    background-color: white;
+    border: solid;
+    border-color: #BDBCBC;
+    border-width: 2px;
+    border-radius: 12px;
+    width: 400px;
+    height: 100px;
+    margin-left: 55px;
+    display: block;
+    box-shadow: rgba(107, 107, 107, 0.12) 0px 10px 20px 2px;
+}
+
+.pilih-button{
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+
+.tambah-button{
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+
+.card{
+    margin-top: 150px;
+}
+
+.card-title{
+    text-align: center;
+}
